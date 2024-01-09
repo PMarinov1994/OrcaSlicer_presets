@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#00B900"
+    ],
+    "fan_max_speed": [
+        "0"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "74"
+    ],
+    "filament_density": [
+        "1.13"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PolyLite ASA"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\n; SET_PRESSURE_ADVANCE  EXTRUDER=extruder ADVANCE=0.142"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "My Generic ASA",
+    "is_custom_defined": "0",
+    "name": "PolyLite ASA",
+    "nozzle_temperature": [
+        "275"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "275"
+    ],
+    "nozzle_temperature_range_high": [
+        "275"
+    ],
+    "overhang_fan_speed": [
+        "20"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "1.9.0.2"
+}

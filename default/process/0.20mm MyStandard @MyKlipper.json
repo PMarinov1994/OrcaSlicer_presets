@@ -1,0 +1,14 @@
+{
+    "brim_type": "no_brim",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.20mm MyStandard @MyKlipper",
+    "print_settings_id": "0.20mm MyStandard @MyKlipper",
+    "seam_gap": "0",
+    "skirt_distance": "10",
+    "skirt_height": "2",
+    "skirt_loops": "3",
+    "skirt_speed": "0",
+    "version": "1.8.0.0"
+}
