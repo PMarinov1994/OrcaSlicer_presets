@@ -2,12 +2,6 @@
     "default_filament_colour": [
         "#00B900"
     ],
-    "fan_max_speed": [
-        "0"
-    ],
-    "fan_min_speed": [
-        "0"
-    ],
     "filament_cost": [
         "74"
     ],
@@ -50,12 +44,6 @@
     ],
     "overhang_fan_speed": [
         "20"
-    ],
-    "reduce_fan_stop_start_freq": [
-        "0"
-    ],
-    "slow_down_for_layer_cooling": [
-        "0"
     ],
     "version": "1.9.0.2"
 }
