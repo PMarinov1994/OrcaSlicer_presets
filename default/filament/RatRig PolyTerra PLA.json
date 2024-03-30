@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#FF8000"
+    ],
+    "filament_cost": [
+        "40"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_max_volumetric_speed": [
+        "14"
+    ],
+    "filament_settings_id": [
+        "RatRig PolyTerra PLA"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\nSET_PRESSURE_ADVANCE  EXTRUDER=extruder ADVANCE=0.044"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "inherits": "RatRig Generic PLA",
+    "is_custom_defined": "0",
+    "name": "RatRig PolyTerra PLA",
+    "version": "2.0.0.0"
+}

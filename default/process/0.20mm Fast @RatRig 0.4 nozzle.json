@@ -1,0 +1,19 @@
+{
+    "default_acceleration": "7800",
+    "from": "User",
+    "gap_infill_speed": "200",
+    "inherits": "0.20mm Standard @RatRig",
+    "inner_wall_acceleration": "7800",
+    "inner_wall_speed": "400",
+    "internal_solid_infill_speed": "300",
+    "is_custom_defined": "0",
+    "name": "0.20mm Fast @RatRig 0.4 nozzle",
+    "outer_wall_acceleration": "5000",
+    "outer_wall_speed": "200",
+    "print_settings_id": "0.20mm Fast @RatRig 0.4 nozzle",
+    "sparse_infill_speed": "300",
+    "top_surface_acceleration": "5000",
+    "top_surface_speed": "200",
+    "travel_acceleration": "7800",
+    "version": "2.0.0.0"
+}

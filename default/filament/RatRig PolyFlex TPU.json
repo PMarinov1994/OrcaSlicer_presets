@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#FF0080"
+    ],
+    "filament_cost": [
+        "100"
+    ],
+    "filament_density": [
+        "1.16"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "RatRig PolyFlex TPU"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "RatRig Generic TPU",
+    "is_custom_defined": "0",
+    "name": "RatRig PolyFlex TPU",
+    "version": "2.0.0.0"
+}

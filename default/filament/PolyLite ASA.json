@@ -46,13 +46,13 @@
     "is_custom_defined": "0",
     "name": "PolyLite ASA",
     "nozzle_temperature": [
-        "275"
+        "265"
     ],
     "nozzle_temperature_initial_layer": [
-        "275"
+        "265"
     ],
     "nozzle_temperature_range_high": [
-        "275"
+        "265"
     ],
     "overhang_fan_speed": [
         "20"

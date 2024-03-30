@@ -1,0 +1,16 @@
+{
+    "from": "User",
+    "inherits": "RatRig V-Core 3 200 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
+    "machine_max_acceleration_y": [
+        "7800",
+        "9000"
+    ],
+    "machine_start_gcode": "SET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nSTART_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single] X0={first_layer_print_min[0]} Y0={first_layer_print_min[1]} X1={first_layer_print_max[0]} Y1={first_layer_print_max[1]}",
+    "name": "V-Core 3 200 0.4 nozzle",
+    "print_host": "http://ratos.local/",
+    "printer_settings_id": "V-Core 3 200 0.4 nozzle",
+    "printhost_apikey": "anything",
+    "version": "2.0.0.0"
+}
