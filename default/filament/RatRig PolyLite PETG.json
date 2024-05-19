@@ -1,0 +1,34 @@
+{
+    "default_filament_colour": [
+        "#0070DF"
+    ],
+    "filament_cost": [
+        "40"
+    ],
+    "filament_density": [
+        "1.25"
+    ],
+    "filament_settings_id": [
+        "RatRig PolyLite PETG"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "inherits": "RatRig Generic PETG",
+    "is_custom_defined": "0",
+    "name": "RatRig PolyLite PETG",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "version": "2.0.2.0"
+}
