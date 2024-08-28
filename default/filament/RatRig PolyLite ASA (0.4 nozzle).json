@@ -1,31 +1,37 @@
 {
     "default_filament_colour": [
-        "#FF0080"
+        "#00FF00"
     ],
     "filament_cost": [
-        "100"
+        "60"
     ],
     "filament_density": [
-        "1.16"
+        "1.13"
+    ],
+    "filament_flow_ratio": [
+        "0.898"
     ],
     "filament_max_volumetric_speed": [
-        "10"
+        "15"
     ],
     "filament_settings_id": [
-        "RatRig PolyFlex TPU"
+        "RatRig PolyLite ASA (0.4 nozzle)"
+    ],
+    "filament_start_gcode": [
+        "; Filament gcode\nSET_PRESSURE_ADVANCE ADVANCE=0.03"
     ],
     "filament_vendor": [
         "PolyMaker"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "50"
+        "95"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "95"
     ],
-    "inherits": "RatRig Generic TPU",
+    "inherits": "RatRig Generic ASA",
     "is_custom_defined": "0",
-    "name": "RatRig PolyFlex TPU",
+    "name": "RatRig PolyLite ASA (0.4 nozzle)",
     "version": "2.0.0.0"
 }
